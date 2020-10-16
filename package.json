@@ -1,0 +1,23 @@
+{
+  "name": "markdownlint-rule-olstart",
+  "version": "1.0.0",
+  "description": "A custom markdownlint rule for ol tags with start attributes",
+  "main": "rule.js",
+  "author": {
+    "name": "John Meyer, AF4JM",
+    "email": "af4jm@users.noreply.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/af4jm/markdownlint-rule-olstart.git"
+  },
+  "homepage": "https://github.com/af4jm/markdownlint-rule-olstart#readme",
+  "license": "MIT",
+  "keywords": [
+    "markdownlint-rule"
+  ],
+  "private": false,
+  "dependencies": {
+    "markdownlint-rule-helpers": "^0.12.0"
+  }
+}
